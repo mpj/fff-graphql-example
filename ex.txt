@@ -1,0 +1,3 @@
+https://www.goodreads.com/author/show.xml?id=4432&key=risKm8wwXsIcyEiTktvA
+
+https://www.goodreads.com/book/show.json?id=27003&key=risKm8wwXsIcyEiTktvA
